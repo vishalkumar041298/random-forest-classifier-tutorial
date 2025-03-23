@@ -1,6 +1,6 @@
 # Random Forest Classifier Tutorial 🌲
 
-This project is a companion tutorial for learning how to use the **Random Forest Classifier** for binary classification tasks. It demonstrates the method on the UCI Heart Disease dataset, including data preprocessing, model training, evaluation, and feature importance.
+This project is a companion tutorial for learning how to use the **Random Forest Classifier** for binary classification tasks. It demonstrates the method on the Wine Dataset from Kaggle, including data preprocessing, model training, evaluation, and feature importance.
 
 ## 📚 Tutorial
 
